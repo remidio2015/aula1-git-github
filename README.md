@@ -52,3 +52,8 @@
 - **Para retornar ao último commit, removendo as alterações feitas nos arquivos**
 
 ``git reset --hard HEAD~1``
+
+- **Para enviar o conteúdo do repositório local para um repositório remoto**
+
+``git push``
+ 
